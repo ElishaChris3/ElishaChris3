@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elisha Christopher
 
-### 🚀 Software Engineer | MERN Stack Developer | React Native Developer
+### 🚀 Software Engineer | Full Stack / Ai Developer
 
 I'm a Software Engineer passionate about building scalable web applications, cross-platform mobile apps, and AI-powered products.
 
