@@ -28,7 +28,7 @@ I specialize in full-stack development using the MERN stack, Next.js, React Nati
 #### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,typescript,javascript,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
 #### Backend
@@ -64,7 +64,7 @@ I specialize in full-stack development using the MERN stack, Next.js, React Nati
 
 ### 🏆 Certifications & Licenses
 
-<!-- Add verified certifications here -->
+AI Engineering Course (Udemey) - https://www.udemy.com/certificate/UC-ec6086b3-a19f-40a1-86bd-e46196a7049e/
 
 ### 🚀 Featured Projects
 
