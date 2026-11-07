@@ -8,14 +8,14 @@ I specialize in full-stack development using the MERN stack, Next.js, React Nati
 
 ### 💼 What I Work On
 
-- 🌐 Full-stack web applications using React.js, Next.js, Node.js, and Express.js
-- 📱 Cross-platform mobile applications with React Native and Expo
-- 🤖 AI-powered applications and integrations
-- 💳 Payment systems using Stripe and RevenueCat
-- 🔗 Third-party API integrations and SaaS platforms
-- ⚡ Performance optimization using Redis caching
-- 🛠️ RESTful API development and backend architecture
-- 🐳 Application deployment and maintenance
+-  Full-stack web applications using React.js, Next.js, Node.js, and Express.js
+-  Cross-platform mobile applications with React Native and Expo
+-  AI-powered applications and integrations
+-  Payment systems using Stripe and RevenueCat
+-  Third-party API integrations and SaaS platforms
+-  Performance optimization using Redis caching
+-  RESTful API development and backend architecture
+-  Application deployment and maintenance
 
 ### 🧑‍💻 Professional Experience
 
@@ -103,6 +103,7 @@ Full-stack web application with authentication and administration features.
 
 - 📧 Email: [elishachris4@gmail.com](mailto:elishachris4@gmail.com)
 - 💼 LinkedIn: [elisha-chris](https://linkedin.com/in/elisha-chris)
+- 🧑‍💻 Portfolio: [elisha-chris](https://elisha-tech.vercel.app/)
 - 📍 Location: Lahore, Pakistan
 
 ---
