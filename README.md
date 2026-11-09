@@ -1,112 +1,138 @@
-# 👋 Hi, I'm Elisha Christopher
-
-### 🚀 Software Engineer | Full Stack / Ai Developer
+# 🚀 Software Engineer | Full Stack & AI Developer
 
 I'm a Software Engineer passionate about building scalable web applications, cross-platform mobile apps, and AI-powered products.
 
-I specialize in full-stack development using the MERN stack, Next.js, React Native, and TypeScript. I enjoy turning ideas into production-ready applications, integrating third-party services, and building clean, maintainable software.
+I specialize in full-stack development using the MERN stack, Next.js, React Native, and TypeScript, with a growing focus on AI engineering, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), vector embeddings, and LLM fine-tuning.
 
-### 💼 What I Work On
+I enjoy turning ideas into production-ready applications, integrating intelligent AI capabilities, connecting third-party services, and building clean, maintainable software.
 
--  Full-stack web applications using React.js, Next.js, Node.js, and Express.js
--  Cross-platform mobile applications with React Native and Expo
--  AI-powered applications and integrations
--  Payment systems using Stripe and RevenueCat
--  Third-party API integrations and SaaS platforms
--  Performance optimization using Redis caching
--  RESTful API development and backend architecture
--  Application deployment and maintenance
+## 💼 What I Work On
 
-### 🧑‍💻 Professional Experience
+- Full-stack web applications using React.js, Next.js, Node.js, and Express.js
+- Cross-platform mobile applications with React Native and Expo
+- AI-powered applications using LLMs and RAG
+- Vector embeddings, semantic search, and AI integrations
+- LLM fine-tuning and Hugging Face ecosystem
+- Payment systems using Stripe and RevenueCat
+- Third-party API integrations and SaaS platforms
+- Performance optimization using Redis caching
+- RESTful API development and backend architecture
+- Application deployment and maintenance
 
-- **Software Engineer — Agile District**
-- **Full Stack Developer — Al-Burraq Technologies**
-- **MERN Stack Developer — Magma3c**
+## 🧑‍💻 Professional Experience
 
-### 🛠️ Languages and Tools
+- **Software Engineer** — Agile District
+- **Full Stack Developer** — Al-Burraq Technologies
+- **MERN Stack Developer** — Magma3c
 
-#### Frontend
+## 🛠️ Languages and Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
-</p>
+### Frontend Development
 
-#### Backend
+![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css)
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
-</p>
+### Backend Development
 
-#### Databases
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,django)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase" />
-</p>
+### Mobile Development
 
-#### Cloud and Deployment
+![Mobile Skills](https://skillicons.dev/icons?i=react)
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,docker,nginx" />
-</p>
+### AI & Machine Learning
 
-#### Tools and Integrations
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings and Semantic Search
+- Vector Databases
+- LLM Fine-Tuning (QLoRA)
+- LangChain and AI Agents
+- Prompt Engineering and Prompt Caching
+- Generative AI Integration
 
-<p>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white" />
-<img src="https://img.shields.io/badge/Moodle-FF9800?style=for-the-badge&logo=moodle&logoColor=white" />
-</p>
+### Databases
 
-### 🏆 Certifications & Licenses
+![Database Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase)
 
-AI Engineering Course (Udemey) - https://www.udemy.com/certificate/UC-ec6086b3-a19f-40a1-86bd-e46196a7049e/
+### Cloud and Deployment
 
-### 🚀 Featured Projects
+![Cloud Skills](https://skillicons.dev/icons?i=azure,docker,nginx)
 
-#### Talkio.ai
+### Tools and Integrations
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logo=revenuecat&logoColor=white)
+![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-FF9800?style=for-the-badge&logo=moodle&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 1. Talkio.ai
+
 AI-powered language learning platform with web and mobile applications.
 
-- React.js, Next.js, Node.js, React Native
-- Azure, Speechify, Anam.ai
-- Moodle LTI integration
-- RevenueCat subscriptions and push notifications
+**Technologies:** React.js, Next.js, Node.js, React Native, Azure, Speechify, Anam.ai
 
-#### Skilkit
+- Developed features for AI-powered language learning experiences.
+- Integrated Speechify text-to-speech functionality.
+- Implemented Moodle LTI integration.
+- Worked on RevenueCat subscriptions and push notifications.
+- Contributed to both web and mobile application development.
+
+### 2. Skilkit
+
 A mentoring and learning platform with role-based dashboards.
 
-- Next.js, Tailwind CSS, Node.js, Express.js
-- Stripe payment integration
-- Google Meet integration
-- Redis caching
+**Technologies:** Next.js, Tailwind CSS, Node.js, Express.js, Redis
 
-#### Nowvplay
-Sports venue and match booking platform.
+- Developed role-based dashboards and application workflows.
+- Integrated Stripe payment functionality.
+- Implemented Google Meet integration.
+- Used Redis caching to improve application performance.
 
-- Frontend development
-- AI-powered search
-- Web application development
+### 3. Nowvplay
 
-#### Olleh.ai
+Sports venue and match-booking platform.
+
+**Technologies:** React.js, Next.js, Node.js, AI integrations
+
+- Contributed to frontend development.
+- Worked on sports venue and match-booking experiences.
+- Contributed to AI-powered search functionality.
+
+### 4. Olleh.ai
+
 Full-stack web application with authentication and administration features.
 
-- React.js, Next.js, Node.js, Express.js
-- PostgreSQL
-- JWT authentication
-- Docker deployment
+**Technologies:** React.js, Next.js, Node.js, Express.js, PostgreSQL, Docker
 
-### 📫 Connect With Me
+- Developed and maintained frontend features.
+- Worked on backend APIs and application functionality.
+- Implemented JWT-based authentication.
+- Worked with PostgreSQL and Docker-based deployment.
 
-- 📧 Email: [elishachris4@gmail.com](mailto:elishachris4@gmail.com)
-- 💼 LinkedIn: [elisha-chris](https://linkedin.com/in/elisha-chris)
-- 🧑‍💻 Portfolio: [elisha-chris](https://elisha-tech.vercel.app/)
-- 📍 Location: Lahore, Pakistan
+## 🏆 Certifications & Licenses
+
+**AI Engineering Course (Udemy)**
+
+Covered topics including LLMs, RAG, LangChain, AI Agents, and fine-tuning.
+
+[View Certificate](https://www.udemy.com/certificate/UC-ec6086b3-a19f-40a1-86bd-e46196a7049e/)
+
+## 📫 Connect With Me
+
+- 📧 **Email:** [elishachris4@gmail.com](mailto:elishachris4@gmail.com)
+- 💼 **LinkedIn:** [elisha-chris](https://linkedin.com/in/elisha-chris)
+- 🌐 **Portfolio:** [elisha-tech.vercel.app](https://elisha-tech.vercel.app/)
+- 📍 **Location:** Lahore, Pakistan
 
 ---
 
-💡 *I enjoy working on challenging projects, learning new technologies, and building impactful software.*
-
+⭐ Feel free to explore my repositories and connect with me. I'm always interested in building impactful products, exploring new technologies, and collaborating on exciting projects!
