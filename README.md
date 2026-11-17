@@ -6,25 +6,6 @@ I specialize in full-stack development using the MERN stack, Next.js, React Nati
 
 I enjoy turning ideas into production-ready applications, integrating intelligent AI capabilities, connecting third-party services, and building clean, maintainable software.
 
-## 💼 What I Work On
-
-- Full-stack web applications using React.js, Next.js, Node.js, and Express.js
-- Cross-platform mobile applications with React Native and Expo
-- AI-powered applications using LLMs and RAG
-- Vector embeddings, semantic search, and AI integrations
-- LLM fine-tuning and Hugging Face ecosystem
-- Payment systems using Stripe and RevenueCat
-- Third-party API integrations and SaaS platforms
-- Performance optimization using Redis caching
-- RESTful API development and backend architecture
-- Application deployment and maintenance
-
-## 🧑‍💻 Professional Experience
-
-- **Software Engineer** — Agile District
-- **Full Stack Developer** — Al-Burraq Technologies
-- **MERN Stack Developer** — Magma3c
-
 ## 🛠️ Languages and Tools
 
 ### Frontend Development
@@ -71,6 +52,25 @@ I enjoy turning ideas into production-ready applications, integrating intelligen
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge&logo=revenuecat&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white)
 ![Moodle](https://img.shields.io/badge/Moodle-FF9800?style=for-the-badge&logo=moodle&logoColor=white)
+
+## 💼 What I Work On
+
+- Full-stack web applications using React.js, Next.js, Node.js, and Express.js
+- Cross-platform mobile applications with React Native and Expo
+- AI-powered applications using LLMs and RAG
+- Vector embeddings, semantic search, and AI integrations
+- LLM fine-tuning and Hugging Face ecosystem
+- Payment systems using Stripe and RevenueCat
+- Third-party API integrations and SaaS platforms
+- Performance optimization using Redis caching
+- RESTful API development and backend architecture
+- Application deployment and maintenance
+
+## 🧑‍💻 Professional Experience
+
+- **Software Engineer** — Agile District
+- **Full Stack Developer** — Al-Burraq Technologies
+- **MERN Stack Developer** — Magma3c
 
 ## 🚀 Featured Projects
 
